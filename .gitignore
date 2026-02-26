@@ -5,3 +5,4 @@ __pycache__/
 best_model.pt
 *.csv
 .DS_Store
+*.png
